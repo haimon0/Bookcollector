@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This app allow you keep track of books you are reading/read.
+This app allow you keep track of books you are reading/have read.
 
 It key features are:
 * Tracking book's name, page count, start and end date
