@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/haimon0/Bookcollector/tree/main">
-    <img src="" alt="Logo" width="150" height="150">
+    <img src="https://github.com/haimon0/Bookcollector/assets/155584350/3b183947-956b-40c1-a2c4-88fb33fc52b7" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Bookcollector</h3>
