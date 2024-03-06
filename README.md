@@ -45,7 +45,7 @@
 
 This app allow you keep track of books you are reading/have read.
 
-It key features are:
+It's key features are:
 * Tracking book's name, page count, start and end date
 * Books that you are reading/read will be visible on shelf
 * Add rating and review to books
